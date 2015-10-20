@@ -1,0 +1,22 @@
+{
+  "name": "hexo-deployer-webdav",
+  "version": "1.0.0",
+  "description": "WebDAV Deployer for Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewsuzuki/hexo-deployer-webdav.git"
+  },
+  "author": "Andrew Suzuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewsuzuki/hexo-deployer-webdav/issues"
+  },
+  "homepage": "https://github.com/andrewsuzuki/hexo-deployer-webdav#readme",
+  "dependencies": {
+    "webdav-sync": "^0.4.4"
+  }
+}
